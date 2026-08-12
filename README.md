@@ -16,6 +16,7 @@ Not much to say for now, stay tuned if you may, inquire if you desire and forget
 
 ☆⌒(≧▽​° )
 ___
+**Current activity:** Getting FreeCodeCamp's Responsive Web Design certification
 <!--
 I'll leave this comment here in case I ever need to add pronouns and what not
 Ooo foreshadowing ooo a literary device in which a writer gives an advance hint of what is to come later in the story ooo spooky and ominous foreshadowing
