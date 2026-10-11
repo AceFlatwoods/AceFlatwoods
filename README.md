@@ -1,13 +1,16 @@
-## Howdy there pardner ＼(⌒▽⌒)
+# Howdy there pardner ＼(⌒▽⌒)
 <img src="https://raw.githubusercontent.com/AceFlatwoods/AceFlatwoods/main/bannerTop.svg" alt="banner" />
+
+## 🟣About me
+
 💠Name's Ace Flatwoods, a developer based in Mexico.💠
 
 🔷Studying a career in Software Engineering as you read this, with a focus on AI and Robotics and also a Full-Stack aspirer/enthusiast.
 
 🔹I am currently setting up this page as you are reading most likely, expect stuff to be added in the near future, small projects and what-not, all built from scratch as a showcase of course.
 
-##
-♠️**About me**♣️
+## 🔮**Random Facts**
+
 - 🌐 As long as you reach me over the World-Wide-Web we can become friends quite quickly!
 - 💻 I studied programming in High School, and waaay before that too, in middle school specifically.
 - 💬 I can speak both English and Spanish! Albeit my preferred language is English.
